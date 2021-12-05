@@ -1,0 +1,5 @@
+org_id = "organizations/000000000000"
+prj_id = "terraform-cmn-all-xxx1"
+svc_account_name = "svc-terraform-builder"
+github_owner = "your_name"
+github_repo = "gcp-terraform"

@@ -1,0 +1,10 @@
+org_id = "organizations/0000000000000"
+prj_id = "simpleweb-svc-dev-xxx1"
+zone   = "us-west1-a"
+env    = "dev"
+
+sharedvpc_project = "sharedvpc-cmn-dev-xxx1"
+sharedvpc_name    = "vpc-svc-default"
+sharedvpc_region  = "us-west1"
+sharedvpc_front   = "subnet-svc-default-front-uswest1"
+sharedvpc_backend = "subnet-svc-default-backend-uswest1"
