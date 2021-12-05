@@ -11,6 +11,7 @@ ref:
 - [Best practices for enterprise organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)
 - [Shared VPC](https://cloud.google.com/vpc/docs/shared-vpc)
 - [Managing infrastructure as code with Terraform, Cloud Build, and GitOps ](https://cloud.google.com/architecture/managing-infrastructure-as-code)
+- [Terraform - Google Cloud Platform Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
 
 
 ## CLI
